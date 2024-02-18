@@ -2,4 +2,8 @@ modify changes in duke branch
 
 pushing local(git) to remote(github)
 
+<<<<<<< HEAD
 hello world once again
+=======
+hello world
+>>>>>>> duke
